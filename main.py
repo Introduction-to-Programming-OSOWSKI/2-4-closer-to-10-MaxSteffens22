@@ -1,4 +1,4 @@
-def close10(x,y):
+def close10(x,y):jk
 
     
 
